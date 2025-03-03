@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+header {
+  width: 100%; /* Asegura que el header ocupe el 100% del ancho */
+}
+
+.table {
+  width: 100%; /* Asegura que la tabla ocupe el 100% del ancho */
+}
+
+.container {
+  max-width: 100%; /* Asegura que el contenedor no tenga un ancho máximo */
+}
+.table-secondary th {
+  text-align: center; /* Centra el texto en los encabezados y celdas */
+}
+
